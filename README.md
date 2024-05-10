@@ -54,14 +54,12 @@
 - https://www.youtube.com/playlist?list=PLV91V4b0yVqQ_inAjuIB5SwBNyYmA9S6M | elliptic curve cryptography course
 - https://a16zcrypto.com/posts/article/zero-knowledge-canon/#section--4
 - https://www.rareskills.io/post/circom-tutorial | https://www.rareskills.io/post/rank-1-constraint-system | https://www.rareskills.io/post/zk-circuits
-
-  ## REPOS/LIBRARIES
-   - https://github.com/Snarkify
-   - https://github.com/ingonyama-zk/icicle | a GPU Library for Zero-Knowledge Acceleration
-   - https://github.com/ingonyama-zk
-   - https://github.com/cryptosat/cryptosim | https://github.com/cryptosat/cryptosim-visualization | web3 infra in space
-   - https://github.com/privacy-scaling-explorations
-   - https://github.com/arkworks-rs | Rust ecosystem for zkSNARK programming
+- https://github.com/Snarkify
+- https://github.com/ingonyama-zk/icicle | a GPU Library for Zero-Knowledge Acceleration
+- https://github.com/ingonyama-zk
+- https://github.com/cryptosat/cryptosim | https://github.com/cryptosat/cryptosim-visualization | web3 infra in space
+- https://github.com/privacy-scaling-explorations
+- https://github.com/arkworks-rs | Rust ecosystem for zkSNARK programming
 
   ## PROJECTS
    - https://pse.dev/es/projects
