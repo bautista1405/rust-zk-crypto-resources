@@ -105,7 +105,9 @@
 - https://www.cryptologie.net/?s=08 | https://www.youtube.com/playlist?list=PLBJMt6zV1c7FN3IjBDr9lydgqGzh_SqHV
 - https://cr.yp.to/djb.html
 
-# Tornado Cash
+# Use cases
+
+## Tornado Cash
 
 - https://www.rareskills.io/post/how-does-tornado-cash-work
 - https://www.youtube.com/watch?v=jfRBGnYjbrU
